@@ -1,0 +1,44 @@
+[
+  {
+    "title": "How to get your first job as a self-taught programmer",
+    "id": 1,
+    "author_name": "John Doe",
+    "author_img": "boy1.png",
+    "cover_img": "1.jpg",
+    "price": 19.99,
+    "reading_time": "5 min",
+    "published_date": "2023-05-01"
+
+  },
+  {
+    "title": "The Art of Problem Solving: Techniques in Programming",
+    "id": 2,
+    "author_name": "Jane Smith",
+    "author_img": "boy2.png",
+    "cover_img": "2.png",
+    "price": 24.99,
+    "reading_time": "10 min",
+    "published_date": "2023-02-10"
+  },
+  {
+    "title": "Python for Beginners: Learn Programming from Scratch",
+    "id": 3,
+    "author_name": "David Johnson",
+    "author_img": "boy1.png",
+    "cover_img": "3.png",
+    "price": 14.99,
+    "reading_time": "7 min",
+    "published_date": "2023-01-25"
+  },
+  {
+    "title": "Machine Learning Fundamentals: A Hands-On Approach",
+    "id": 4,
+    "author_name": "Emily Brown",
+    "author_img": "boy2.png",
+    "cover_img": "4.jpg",
+    "price": 29.99,
+    "reading_time": "15 min",
+    "published_date": "2023-04-05"
+  }
+ 
+]
