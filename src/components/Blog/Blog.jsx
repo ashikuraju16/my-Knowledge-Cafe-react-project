@@ -19,7 +19,7 @@ const Blog = ({blog}) => {
                </div>
             </div>
             <h4>{title}</h4>
-            <button className='text-xl underline font-bold text-sky-800'>Mark as Read</button>
+            <button className='text-xl underline font-bold text-sky-900'>Mark as Read</button>
         </div>
     );
 };
