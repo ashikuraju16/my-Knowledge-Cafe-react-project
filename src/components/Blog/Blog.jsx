@@ -18,7 +18,7 @@ const Blog = ({blog,handleAddToBookmark,handleMarkAsRead}) => {
                <div className='flex space-x-3' >
                 <p className="text-xl">{reading_time}</p>
                 <button type="button" onClick={() => handleAddToBookmark(blog)} className='mb-6 text-red-600'>
-  <Icon  icon="noto-v1:bookmark-tabs" />
+  <Icon className='text-2xl'  icon="noto-v1:bookmark-tabs" />
 </button>
                </div>
             </div>
